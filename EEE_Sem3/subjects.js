@@ -53,7 +53,7 @@ const SUBJECTS = {
 
   "slotH": {
     name: "NT",
-    link: "https://vnit.webex.com/meet/hmsuryawanshi"
+    link: "https://vnit.webex.com/meet/mitraarghya"
   },
   "slot": {
     name: "",
