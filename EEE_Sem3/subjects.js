@@ -69,4 +69,8 @@ const SUBJECTS = {
     name: "NT Prac B1,B2",
     link: ""
   },
+  "slotedcprac456": {
+    name: "EDC Prac B4,B5,B6",
+    link: "https://vnit.webex.com/meet/himanshupadole.aapp"
+  },
 };
