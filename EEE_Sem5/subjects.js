@@ -23,7 +23,7 @@ const SUBJECTS = {
   
    "slotDb": {
     name: "EPS sec.B",
-    link: ""
+    link: "https://vnit.webex.com/vnit/j.php?MTID=mcda9fca88dd86c4184809992dac1c6e2"
   },
 
   "slotE": {
