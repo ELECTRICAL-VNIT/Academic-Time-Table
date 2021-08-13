@@ -21,9 +21,24 @@ const SUBJECTS = {
     link: "https://us04web.zoom.us/j/4908242577?pwd=NmVaT0ZmckdCOVJqa2tTcGh6eUdDQT09"
   },
   
-   "slotDb": {
+   "slotDb_tue": {
+    name: "EPS sec.B",
+    link: "https://vnit.webex.com/vnit/j.php?MTID=mefbefe3cd5f8c40a4559c6ec66c46be3"
+  },
+  
+   "slotDb_wed": {
+    name: "EPS sec.B",
+    link: "https://vnit.webex.com/vnit/j.php?MTID=mcda9fca88dd86c4184809992dac1c6e2"
+  },
+  
+   "slotDb_fri": {
     name: "EPS sec.B",
     link: "https://vnit.webex.com/vnit/j.php?MTID=m487be3debc858495245fb760623e0dc6"
+  },
+  
+   "slotDb_sat": {
+    name: "EPS sec.B",
+    link: "https://vnit.webex.com/vnit/j.php?MTID=mb7b1659275ff5c9084a66c727023339e"
   },
 
   "slotE": {
