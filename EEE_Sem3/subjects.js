@@ -76,4 +76,5 @@ const SUBJECTS = {
   "slottnpmon": {
     name: "TnP",
     link: "https://vnit.webex.com/vnit/j.php?MTID=mc493f640c81f17aed4f05cc046d69eb9"
+  }
 };
