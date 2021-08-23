@@ -73,4 +73,7 @@ const SUBJECTS = {
     name: "EDC Prac B4,B5,B6",
     link: "https://vnit.webex.com/meet/himanshupadole.aapp"
   },
+  "slottnpmon": {
+    name: "TnP",
+    link: "https://vnit.webex.com/vnit/j.php?MTID=mc493f640c81f17aed4f05cc046d69eb9"
 };
