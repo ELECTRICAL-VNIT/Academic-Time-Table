@@ -76,7 +76,7 @@ const SUBJECTS = {
 
   "slotG": {
     name: "EMD",
-    link: "https://vnit.webex.com/vnit/k2/j.php?MTID=t0ab8f5fae6bc4044b2e355eb582cede7"
+    link: "https://vnit.webex.com/vnit/k2/j.php?MTID=tf636d949e2bcf329d668bda4f021cdce"
   },
 
   "slotH": {
