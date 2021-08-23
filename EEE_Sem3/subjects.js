@@ -67,7 +67,7 @@ const SUBJECTS = {
 
  "slotntprac12": {
     name: "NT Prac B1,B2",
-    link: ""
+    link: "https://vnit.webex.com/vnit/j.php?MTID=m167461ee455ffe5511031628ee4b3f29"
   },
   "slotedcprac456": {
     name: "EDC Prac B4,B5,B6",
