@@ -10,11 +10,6 @@ const SUBJECTS = {
     name: "---",
     link: ""
   },
-  
-  "slotTnP": {
-    name: "CP_TnP",
-    link: "https://vnit.webex.com/vnit/j.php?MTID=m0ab1eefbc2d4afb56f0101ed094c5bdf"
-  },
 
   "slotC": {
     name: "EMC II",
