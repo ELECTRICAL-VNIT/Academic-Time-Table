@@ -80,5 +80,9 @@ const SUBJECTS = {
   "mniprac12": {
     name:"M&I Prac B1,B2",
     link:"https://vnit.webex.com/meet/mrramteke"
+  },
+  "slottnpfri": {
+    name:"TnP",
+    link:"https://vnit.webex.com/vnit/j.php?MTID=mdfea0f4b4bfa24b9ebc115e957a655c7"
   }
 };
