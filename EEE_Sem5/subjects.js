@@ -43,7 +43,7 @@ const SUBJECTS = {
 
   "slotE": {
     name: "CSI",
-    link: "https://vnit.webex.com/vnit/j.php?MTID=m2daa28158157529f2b4112d79e0e9aba"
+    link: "https://vnit.webex.com/meet/ramshakarampuri"
   },
 
   "slotFa_tue": {
