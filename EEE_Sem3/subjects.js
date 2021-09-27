@@ -48,7 +48,7 @@ const SUBJECTS = {
 
   "slotG": {
     name: "EDC",
-    link: "https://vnit.webex.com/meet/himanshupadole.aapp"
+    link: "https://vnit.webex.com/meet/NKN"
   },
 
   "slotH": {
